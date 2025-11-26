@@ -6,6 +6,6 @@ This tapermonkey js code automatticly checks all the catagories on https://mailb
 Made by Tobe-S
 No copyright allowed
 
-Also on greasyfork.org
+Also on https://greasyfork.org/en/scripts/556987-mailbait-info-auto-check-all-checkboxes
 
 Have fun :))
