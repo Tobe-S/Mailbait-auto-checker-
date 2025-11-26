@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mailbait.info auto check all checkboxes
+// @name         Mailbait.info Auto Check All Checkboxes
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Automatically checks all checkboxes on mailbait.info/run
